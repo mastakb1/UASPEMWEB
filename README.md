@@ -5,15 +5,15 @@ Aplikasi website perpustakaan sederhana, menggunakan php native
 <br>
 <h3>Fitur Pengeloa Admin Website</h3>
 <ul>
-	<li>Crud Buku</li>
+	<li>Crud Skripsi</li>
 	<li>Crud Anggota</li>
 	<li>Transaksi</li>
-	<li>Fitur Kembali Buku Yang Sudah di Pinjam</li>
-  <li>Perpanjang masa pinjam buku</li>
+	<li>Fitur Kembali Skripsi Yang Sudah di Pinjam</li>
+  <li>Perpanjang masa pinjam Skripsi</li>
   <li>Login, Registrasi & Logout</li>
 </ul>
 <br>
 <h3>Penjelasan fitur</h3>
-1. saat mengembalikan buku yang di pinjam, secara otomatis tabel buku akan di tambahkan 1 buku.
+1. saat mengembalikan skripsi yang di pinjam, secara otomatis tabel skripsi akan di tambahkan 1 skripsi.
 
-2. Saat ingin meminjam buku, secara otomatis di tabel buku di kurangi.
+2. Saat ingin meminjam skripsi, secara otomatis di tabel skripsi di kurangi.
